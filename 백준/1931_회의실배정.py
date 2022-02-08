@@ -1,3 +1,5 @@
+## 백준 1931 회의실배정
+## 정렬, 그리디
 N = int(input())
 data = []
 for _ in range(N):
