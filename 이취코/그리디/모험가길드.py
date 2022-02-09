@@ -1,5 +1,5 @@
 ## 모험가 길드
-# 내 코드
+# 내 코드(잘못된 코드)
 n = int(input())
 group = list(map(int, input().split()))
 
@@ -24,6 +24,7 @@ while True:
 print(cnt)
 
 # 풀이
+# 그리디에 맞게끔 오름차순 정렬로 해야한다!!
 n = int(input())
 data = list(map(int, input().split()))
 data.sort()
